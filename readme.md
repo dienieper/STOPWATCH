@@ -18,7 +18,7 @@
 1. Clone este repositorio.
 
 ```sh
-  $ git clone https://github.com/dienieper/cronometro.git
+  $ git clone https://github.com/dienieper/STOPWATCH.git
 ```
 
 ## Contato:
