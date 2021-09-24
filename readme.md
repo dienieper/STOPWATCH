@@ -24,4 +24,4 @@
 ## Contato:
 
 - [LinkedIn](https://www.linkedin.com/in/dienieper-oliveira-98a7a4217/)
-- [email](dienieper@outlook.com)
+- email dienieper@outlook.com
