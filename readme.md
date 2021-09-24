@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-    <img alt="cronometro" src="./img/2.jpg" width="200" heigth="416" />
+    <img alt="cronometro" src="./img/2.png" width="200" heigth="416" />
     
 </h1>
 
